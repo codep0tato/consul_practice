@@ -1,0 +1,1 @@
+MYPROPERTY={{ key "foo" }}
