@@ -87,6 +87,6 @@ docker-compose down
 ## Cleanup
 ```bash
 docker ps -a | grep consul | awk '{ print $1 }' | xargs docker rm
-rm -f generated_template/out.txt
 docker rmi consul
+rm -f generated_template/out.txt
 ```
