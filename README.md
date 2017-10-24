@@ -16,9 +16,8 @@ consul-template v0.19.0 (33b34b3)
 ```
 
 ## Consul Dashboard:
-```bash
 http://localhost:8500
-```
+
 
 ## Add a data item to Consul
 ```bash
