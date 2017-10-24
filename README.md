@@ -25,7 +25,7 @@ Server:
  Built:        Tue Sep 26 22:45:38 2017
  OS/Arch:      linux/amd64
  Experimental: true
-§§§
+```
 
 ## Cluster Up
 ```bash
