@@ -1,6 +1,6 @@
 # Consul Practice Cluster
 
-Featuring:
+Featuring the latest:
 - Consul
 - Consul Template
 
@@ -32,7 +32,7 @@ Server:
 docker-compose up -d
 ```
 
-## Version:
+## Version (At time of testing.):
 ```bash
 docker exec -it consulpractice_consul-template_1 consul-template --version
 consul-template v0.19.0 (33b34b3)
