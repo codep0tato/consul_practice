@@ -25,6 +25,8 @@ http://localhost:8500
 docker exec -it consulpractice_consul1_1 consul kv put foo bar
 ```
 
+(Data in the UI: http://localhost:8500/ui/#/dc1/kv/)
+
 ## View the generated template
 ```bash
 cat generated_template/out.txt
